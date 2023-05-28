@@ -26,7 +26,7 @@ public class C04_ManageMethods_ImplicitlyWait {
 
 //techpro sayfasina geri donelim
 driver.navigate().back();
-//sayfa basligini techpro icerdigini test edelim
+//sayfa basligini techpro icerdigini test edelim.
         String actualTitle=driver.getTitle();
         String arananKelime = "techpro";
 
